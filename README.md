@@ -1,2 +1,2 @@
 # CriO_Store
-An e-commerce website built using WordPress.
+A Woocommerce website built using WordPress.
