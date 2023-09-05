@@ -1,0 +1,4 @@
+2023-08-23T07:39:58+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/Requests/src/Transport/Curl.php on line 335
+
+2023-08-23T16:03:07+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/wc-user-functions.php on line 980
+

@@ -1,0 +1,8 @@
+2023-08-08T04:44:42+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/CartOrderSummarySubtotalBlock.php on line 7
+
+2023-08-08T05:31:25+00:00 CRITICAL LiteSpeed\Core::_check_is_html(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-content/plugins/elementor/includes/elements/column.php on line 926
+
+2023-08-08T05:31:28+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/crioit/criof.com/wp-settings.php on line 468
+
+2023-08-08T15:58:28+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 506
+

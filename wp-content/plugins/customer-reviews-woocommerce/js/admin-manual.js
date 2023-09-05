@@ -1,0 +1,34 @@
+jQuery(document).ready(function($) {
+	jQuery('.ivole-order, [class^=ivole-o-]').click(function(e) {
+		e.preventDefault();
+		var classList = $(this).attr('class').split(/\s+/);
+		var order_id = -1;
+		for (var i = 0; i < classList.length; i++) {
+			if (classList[i].startsWith('ivole-o-')) {
+				order_id = parseInt(classList[i].substring(8), 10);
+			}
+		}
+		if (order_id > -1) {
+			var sending = CrManualStrings.sending;
+			if( $(this).hasClass( 'ivole-order-cr' ) ) {
+				sending = CrManualStrings.syncing;
+			}
+			if( sending !== $(this).closest( '#post-' + order_id + ',#order-' + order_id ).find( '.ivole-review-reminder' ).text() ) {
+				$(this).closest( '#post-' + order_id + ',#order-' + order_id ).find( '.ivole-review-reminder' ).text( sending );
+				var data = {
+					'action': 'ivole_manual_review_reminder',
+					'order_id': order_id
+				};
+				jQuery.post(ajaxurl, data, function(response) {
+					if (response.code === 1) {
+						jQuery( '#post-' + response.order_id + ',#order-' + response.order_id ).find( '.ivole-review-reminder' ).text( CrManualStrings.error_code_1 );
+					} else if (response.code === 2) {
+						jQuery( '#post-' + response.order_id + ',#order-' + response.order_id ).find( '.ivole-review-reminder' ).text( CrManualStrings.error_code_2.replace( '%s', response.message ) );
+					} else {
+						jQuery( '#post-' + response.order_id + ',#order-' + response.order_id ).find( '.ivole-review-reminder' ).text( response.message );
+					}
+				}, 'json');
+			}
+		}
+	});
+});

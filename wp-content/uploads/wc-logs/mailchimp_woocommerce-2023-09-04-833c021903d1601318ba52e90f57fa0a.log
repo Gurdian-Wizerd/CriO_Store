@@ -1,0 +1,8 @@
+2023-09-04T17:16:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 92da23cb959d177664270abd0ce4ccc0
+2023-09-04T17:16:10+00:00 NOTICE abandoned_cart.success :: email: johnsmith010@storebotmail.joonix.net :: checkout_url: https://criof.com/index.php/checkout/?mc_cart_id=92da23cb959d177664270abd0ce4ccc0
+2023-09-04T17:16:11+00:00 NOTICE cart.member.updated :: Updated johnsmith010@storebotmail.joonix.net subscriber status to transactional and language to en
+2023-09-04T17:17:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 92da23cb959d177664270abd0ce4ccc0
+2023-09-04T17:18:12+00:00 NOTICE abandoned_cart.success :: email: johnsmith010@storebotmail.joonix.net :: checkout_url: https://criof.com/index.php/checkout/?mc_cart_id=92da23cb959d177664270abd0ce4ccc0
+2023-09-04T20:00:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e5ce0d583ce63552b18a2889147cfdca
+2023-09-04T20:02:24+00:00 NOTICE abandoned_cart.success :: email: johnsmith005@storebotmail.joonix.net :: checkout_url: https://criof.com/index.php/checkout/?mc_cart_id=e5ce0d583ce63552b18a2889147cfdca
+2023-09-04T20:02:28+00:00 NOTICE cart.member.updated :: Updated johnsmith005@storebotmail.joonix.net subscriber status to transactional and language to en

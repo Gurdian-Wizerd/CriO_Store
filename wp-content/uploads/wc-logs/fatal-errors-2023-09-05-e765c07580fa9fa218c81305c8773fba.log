@@ -1,0 +1,96 @@
+2023-09-05T03:00:04+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-09-05T03:20:48+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 233472 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-09-05T03:28:51+00:00 CRITICAL apply_filters(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/plugin.php on line 177
+
+2023-09-05T04:15:33+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 233472 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-09-05T06:46:40+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-09-05T07:22:55+00:00 CRITICAL ogf_fonts_array(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 173
+
+2023-09-05T09:01:15+00:00 CRITICAL LiteSpeed\Control::finalize(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/post.php on line 368
+
+2023-09-05T09:14:11+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-05T09:14:17+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-05T09:26:36+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 233472 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-09-05T09:29:45+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/src/Utilities/NumberUtil.php on line 1
+
+2023-09-05T09:50:29+00:00 CRITICAL LiteSpeed\Control::finalize(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/post.php on line 368
+
+2023-09-05T10:26:40+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in /home/sam/criof.com/wp-content/plugins/static-html-output-6.6.23/static-html-output.php:26
+Stack trace:
+#0 /home/sam/criof.com/wp-admin/includes/plugin.php(2314): include_once()
+#1 /home/sam/criof.com/wp-admin/includes/plugin.php(661): plugin_sandbox_scrape('static-html-out...')
+#2 /home/sam/criof.com/wp-admin/plugins.php(58): activate_plugin('static-html-out...', 'https://criof.c...', false)
+#3 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/static-html-output-6.6.23/static-html-output.php on line 26
+
+2023-09-05T10:26:46+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in /home/sam/criof.com/wp-content/plugins/static-html-output-6.6.23/static-html-output.php:26
+Stack trace:
+#0 /home/sam/criof.com/wp-admin/includes/plugin.php(2314): include_once()
+#1 /home/sam/criof.com/wp-admin/plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/static-html-output-6.6.23/static-html-output.php on line 26
+
+2023-09-05T10:26:47+00:00 CRITICAL Uncaught Error: Class "StaticHTMLOutput\Controller" not found in /home/sam/criof.com/wp-content/plugins/static-html-output-6.6.23/static-html-output.php:26
+Stack trace:
+#0 /home/sam/criof.com/wp-admin/includes/plugin.php(2314): include_once()
+#1 /home/sam/criof.com/wp-admin/plugins.php(192): plugin_sandbox_scrape('static-html-out...')
+#2 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/static-html-output-6.6.23/static-html-output.php on line 26
+
+2023-09-05T11:23:42+00:00 CRITICAL LiteSpeed\Core::_check_is_html(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/src/Admin/Features/OnboardingTasks/TaskLists.php on line 1
+
+2023-09-05T11:24:24+00:00 CRITICAL json_decode(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-09-05T11:24:48+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-09-05T11:26:16+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/blocks/blocks-json.php on line 1
+
+2023-09-05T11:26:37+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-completed-order.php on line 1
+
+2023-09-05T11:29:14+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-on-hold-order.php on line 1
+
+2023-09-05T11:31:07+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-09-05T11:31:46+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-09-05T11:34:58+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-refunded-order.php on line 1
+
+2023-09-05T11:41:41+00:00 CRITICAL LiteSpeed\Core::_check_is_html(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/elementor/includes/elements/section.php on line 1147
+
+2023-09-05T11:41:42+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+

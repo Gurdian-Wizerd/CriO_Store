@@ -1,0 +1,12 @@
+2023-08-22T08:17:33+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-22T08:50:16+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3044
+
+2023-08-22T12:26:07+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-08-22T13:04:00+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-08-22T16:04:48+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 69632 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 166
+
+2023-08-22T22:09:00+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+

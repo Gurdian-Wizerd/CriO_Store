@@ -1,0 +1,82 @@
+2023-08-17T09:25:23+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-17T09:25:26+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-17T09:25:29+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/utility.cls.php on line 406
+
+2023-08-17T09:27:40+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/utility.cls.php on line 406
+
+2023-08-17T09:29:37+00:00 CRITICAL Out of memory (allocated 70254592) (tried to allocate 32768 bytes) in /home/sam/criof.com/wp-content/plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-service.php on line 1064
+
+2023-08-17T09:29:42+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-17T09:29:42+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/CartAcceptedPaymentMethodsBlock.php on line 1
+
+2023-08-17T09:29:47+00:00 CRITICAL Out of memory (allocated 57147392) (tried to allocate 40960 bytes) in /home/sam/criof.com/wp-includes/pomo/mo.php on line 302
+
+2023-08-17T09:31:00+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-08-17T09:31:43+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/debug2.cls.php on line 1
+
+2023-08-17T09:31:43+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/debug2.cls.php on line 1
+
+2023-08-17T09:34:06+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-17T09:38:08+00:00 CRITICAL array_unshift(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/ProceedToCheckoutBlock.php on line 23
+
+2023-08-17T09:38:08+00:00 CRITICAL array_unshift(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/ProceedToCheckoutBlock.php on line 23
+
+2023-08-17T09:38:09+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-17T09:38:33+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2397
+
+2023-08-17T09:38:33+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/media.cls.php on line 347
+
+2023-08-17T09:38:36+00:00 CRITICAL Out of memory (allocated 63438848) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/woo-variation-swatches/includes/class-woo-variation-swatches-product-page.php on line 563
+
+2023-08-17T09:38:58+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart.asset.php on line 1
+
+2023-08-17T09:39:03+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-17T09:39:37+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-17T09:39:37+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 69632 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 166
+
+2023-08-17T09:41:11+00:00 CRITICAL Out of memory (allocated 68157440) (tried to allocate 69632 bytes) in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+
+2023-08-17T09:42:09+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-08-17T09:44:06+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 32768 bytes) in /home/sam/criof.com/wp-includes/pluggable.php on line 2470
+
+2023-08-17T09:44:47+00:00 CRITICAL Out of memory (allocated 68157440) (tried to allocate 69632 bytes) in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-autoloader.php on line 54
+
+2023-08-17T09:44:47+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 69632 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 166
+
+2023-08-17T09:44:50+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2397
+
+2023-08-17T09:48:40+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-08-17T09:48:42+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-08-17T09:50:05+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-17T09:53:29+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-08-17T09:54:52+00:00 CRITICAL Elementor\Autoloader::main(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/elementor/modules/library/documents/library-document.php on line 20
+
+2023-08-17T09:59:05+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-17T09:59:09+00:00 CRITICAL Out of memory (allocated 57147392) (tried to allocate 40960 bytes) in /home/sam/criof.com/wp-includes/pomo/mo.php on line 302
+
+2023-08-17T10:07:36+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3044
+
+2023-08-17T10:44:30+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-17T12:35:19+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-17T12:38:09+00:00 CRITICAL Out of memory (allocated 70254592) (tried to allocate 32768 bytes) in /home/sam/criof.com/wp-content/plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-service.php on line 1064
+
+2023-08-17T12:42:05+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-08-17T22:05:37+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+

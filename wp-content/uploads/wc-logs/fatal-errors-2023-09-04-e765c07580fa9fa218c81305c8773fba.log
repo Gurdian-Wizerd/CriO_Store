@@ -1,0 +1,614 @@
+2023-09-04T04:10:38+00:00 CRITICAL Out of memory (allocated 72351744) (tried to allocate 32768 bytes) in /home/sam/criof.com/wp-content/themes/own-shop/inc/class-tgm-plugin-activation.php on line 445
+
+2023-09-04T04:13:06+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-09-04T04:17:13+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-09-04T04:18:22+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-09-04T04:18:33+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 1162
+
+2023-09-04T04:23:15+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/Requests/src/Transport/Curl.php on line 398
+
+2023-09-04T04:23:18+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/class-wp-privacy-policy-content.php on line 11
+
+2023-09-04T04:29:55+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3482
+
+2023-09-04T04:29:55+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-09-04T04:34:01+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/Requests/src/Iri.php on line 1060
+
+2023-09-04T04:40:31+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.asset.php on line 1
+
+2023-09-04T04:40:41+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-09-04T04:40:48+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-09-04T04:40:52+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-09-04T04:47:37+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 1162
+
+2023-09-04T04:54:17+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3482
+
+2023-09-04T04:56:26+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-09-04T04:57:34+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 1199
+
+2023-09-04T04:59:56+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.asset.php on line 1
+
+2023-09-04T05:03:17+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3482
+
+2023-09-04T05:09:43+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-09-04T05:15:22+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3482
+
+2023-09-04T05:15:27+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 1162
+
+2023-09-04T05:15:31+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 1162
+
+2023-09-04T07:47:41+00:00 CRITICAL LiteSpeed\Core::_check_is_html(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 30
+
+2023-09-04T12:20:28+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/utility.cls.php on line 406
+
+2023-09-04T13:10:11+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-09-04T16:50:56+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T16:53:41+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T16:54:26+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T16:58:39+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/gui.cls.php on line 10
+
+2023-09-04T16:58:42+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:08:29+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:09:48+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:11:20+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:11:31+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:11:45+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:12:21+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:13:11+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:13:19+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:13:39+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:14:05+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:14:37+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:17:16+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:17:36+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:20:12+00:00 CRITICAL Out of memory (allocated 95420416) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-09-04T17:24:26+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:24:39+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:25:16+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:50:42+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-09-04T17:50:48+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/media.cls.php on line 1
+
+2023-09-04T17:58:39+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:59:18+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T17:59:45+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T18:03:03+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T18:03:18+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T18:06:00+00:00 CRITICAL Out of memory (allocated 63438848) (tried to allocate 131072 bytes) in /home/sam/criof.com/wp-content/plugins/woo-variation-swatches/includes/getwooplugins/class-getwooplugins-admin-settings.php on line 590
+
+2023-09-04T18:08:25+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T18:15:13+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T18:16:58+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-09-04T19:54:59+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T19:56:00+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T20:00:46+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T20:02:32+00:00 CRITICAL mysqli_query(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-09-04T20:02:41+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 311296 bytes) in /home/sam/criof.com/wp-content/plugins/updraftplus/updraftplus.php on line 104
+
+2023-09-04T20:03:25+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T20:05:22+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T20:06:40+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-09-04T20:07:28+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+

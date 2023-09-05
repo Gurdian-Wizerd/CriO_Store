@@ -1,0 +1,34 @@
+2023-08-18T00:30:56+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-18T00:31:39+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-18T02:14:51+00:00 CRITICAL Uncaught TypeError: TInvWL_Public_Wishlist_Ajax::wishlist_ajax_actions(): Argument #3 ($guest_wishlist) must be of type bool, null given, called in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 85 and defined in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php:117
+Stack trace:
+#0 /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php(85): TInvWL_Public_Wishlist_Ajax->wishlist_ajax_actions(Array, Array, NULL)
+#1 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): TInvWL_Public_Wishlist_Ajax->ajax_action('')
+#2 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/sam/criof.com/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action('wc_ajax_tinvwl')
+#5 /home/sam/criof.com/wp-includes/class-wp-hook.php(308): WC_AJAX::do_wc_ajax('')
+#6 /home/sam/criof.com/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#7 /home/sam/criof.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home/sam/criof.com/wp-includes/template-loader.php(13): do_action('template_redire...')
+#9 /home/sam/criof.com/wp-blog-header.php(19): require_once('/home/sam/criof...')
+#10 /home/sam/criof.com/index.php(17): require('/home/sam/criof...')
+#11 {main}
+  thrown in /home/sam/criof.com/wp-content/plugins/ti-woocommerce-wishlist/public/wishlist/ajax.class.php on line 117
+
+2023-08-18T12:31:53+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/src/Utilities/NumberUtil.php on line 1
+
+2023-08-18T13:01:27+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-18T15:31:52+00:00 CRITICAL Maximum execution time of 50 seconds exceeded in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/tracks/events/class-wc-orders-tracking.php on line 197
+
+2023-08-18T15:42:13+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-payment-method-cod.asset.php on line 1
+
+2023-08-18T23:18:54+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/Requests/src/Transport/Curl.php on line 450
+
+2023-08-18T23:19:03+00:00 CRITICAL array_flip(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 173
+
+2023-08-18T23:19:07+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/CartAcceptedPaymentMethodsBlock.php on line 1
+

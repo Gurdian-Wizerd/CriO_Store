@@ -1,0 +1,10 @@
+2023-08-06T04:14:54+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-includes/Requests/src/Iri.php on line 1060
+
+2023-08-06T07:10:13+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-includes/Requests/src/Transport/Curl.php on line 398
+
+2023-08-06T08:03:15+00:00 CRITICAL LiteSpeed\Core::_check_is_html(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-content/plugins/litespeed-cache/src/htaccess.cls.php on line 618
+
+2023-08-06T16:11:13+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/crioit/criof.com/wp-content/plugins/woocommerce/src/Utilities/NumberUtil.php on line 1
+
+2023-08-06T18:47:04+00:00 CRITICAL Out of memory (allocated 89128960) (tried to allocate 90112 bytes) in /home/crioit/criof.com/wp-admin/includes/file.php on line 1742
+

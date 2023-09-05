@@ -1,0 +1,62 @@
+2023-08-15T06:54:22+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-15T07:07:39+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version3/class-wc-rest-products-controller.php on line 1490
+
+2023-08-15T07:07:43+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/utility.cls.php on line 1
+
+2023-08-15T07:16:45+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/src/Admin/API/SettingOptions.php on line 1
+
+2023-08-15T07:16:59+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php on line 1736
+
+2023-08-15T07:31:23+00:00 CRITICAL LiteSpeed\Control::finalize(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/post.php on line 856
+
+2023-08-15T08:00:47+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-08-15T09:12:59+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-15T10:20:25+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-15T14:28:19+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/debug2.cls.php on line 318
+
+2023-08-15T14:28:19+00:00 CRITICAL require_once(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/debug2.cls.php on line 384
+
+2023-08-15T14:29:29+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-15T15:54:54+00:00 CRITICAL Out of memory (allocated 55050240) (tried to allocate 114688 bytes) in /home/sam/criof.com/wp-settings.php on line 468
+
+2023-08-15T16:19:36+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-08-15T16:23:32+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-08-15T16:27:34+00:00 CRITICAL Out of memory (allocated 61341696) (tried to allocate 69632 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 166
+
+2023-08-15T16:29:58+00:00 CRITICAL LiteSpeed\Core::_check_is_html(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/woocommerce/includes/integrations/maxmind-geolocation/class-wc-integration-maxmind-geolocation.php on line 18
+
+2023-08-15T16:34:05+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 20480 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 162
+
+2023-08-15T16:34:33+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3044
+
+2023-08-15T16:34:44+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-08-15T16:58:57+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/Requests/src/Iri.php on line 1060
+
+2023-08-15T17:07:34+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-admin/includes/misc.php on line 805
+
+2023-08-15T17:07:40+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 3482
+
+2023-08-15T17:14:06+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/Requests/src/Iri.php on line 1060
+
+2023-08-15T18:11:36+00:00 CRITICAL Out of memory (allocated 59244544) (tried to allocate 135168 bytes) in /home/sam/criof.com/wp-content/plugins/olympus-google-fonts/includes/functions.php on line 159
+
+2023-08-15T19:14:43+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-15T19:14:44+00:00 CRITICAL Out of memory (allocated 95420416) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-15T19:48:10+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wp-xmlrpc-server.php on line 914
+
+2023-08-15T20:39:33+00:00 CRITICAL mysqli_query(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
+2023-08-15T20:39:38+00:00 CRITICAL LiteSpeed\Core::send_headers_force(): Cannot use output buffering in output buffering display handlers in /home/sam/criof.com/wp-content/plugins/litespeed-cache/src/core.cls.php on line 474
+
+2023-08-15T23:26:32+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 217088 bytes) in /home/sam/criof.com/wp-includes/class-wpdb.php on line 2431
+
